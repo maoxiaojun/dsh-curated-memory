@@ -1,6 +1,6 @@
 {
   "name": "dsh-curated-memory",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hermes-style curated memory for DeepSeek Harness: MEMORY.md + USER.md frozen snapshot injected into the system prompt, plus a memory tool.",
   "type": "module",
   "main": "index.js",
