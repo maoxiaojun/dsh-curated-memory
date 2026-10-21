@@ -25,9 +25,5 @@
   "engines": {
     "dsh": ">=0.2.0"
   },
-  "peerDependencies": {
-    "@deepseek-ai/dsh-tools": "*",
-    "@deepseek-ai/schemastery": "*"
-  },
   "license": "MIT"
 }
